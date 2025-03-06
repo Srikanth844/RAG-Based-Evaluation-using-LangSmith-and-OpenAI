@@ -1,4 +1,4 @@
-Here is a sample README.md for your GitHub repository that describes the project, the steps to set it up, and how to use the provided code.
+## RAG-Based Evaluation using LangSmith and OpenAI
 
 ```markdown
 # RAG-Based Evaluation Bot using LangSmith and OpenAI
