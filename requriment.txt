@@ -1,0 +1,6 @@
+langsmith
+ragas
+openai
+zipfile
+numpy
+langchain
